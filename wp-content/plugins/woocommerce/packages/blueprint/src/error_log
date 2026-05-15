@@ -1,0 +1,5 @@
+[15-May-2026 15:06:20 UTC] PHP Fatal error:  Trait 'Automattic\WooCommerce\Blueprint\UseWPFunctions' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/ImportSchema.php on line 16
+[15-May-2026 15:07:32 UTC] PHP Fatal error:  Trait 'Automattic\WooCommerce\Blueprint\UseWPFunctions' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/ImportStep.php on line 16
+[15-May-2026 15:07:33 UTC] PHP Fatal error:  Trait 'Automattic\WooCommerce\Blueprint\UseWPFunctions' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Logger.php on line 10
+[15-May-2026 15:57:02 UTC] PHP Fatal error:  Trait 'Automattic\WooCommerce\Blueprint\UseWPFunctions' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/UsePluginHelpers.php on line 5
+[15-May-2026 16:00:13 UTC] PHP Fatal error:  Trait 'Automattic\WooCommerce\Blueprint\UseWPFunctions' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/ExportSchema.php on line 18

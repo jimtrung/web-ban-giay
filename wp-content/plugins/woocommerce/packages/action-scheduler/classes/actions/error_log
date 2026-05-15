@@ -1,0 +1,12 @@
+[15-May-2026 12:16:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Action' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_NullAction.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_NullAction.php on line 6
+[15-May-2026 12:28:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Action' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_FinishedAction.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_FinishedAction.php on line 6
+[15-May-2026 12:31:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_FinishedAction' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_CanceledAction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_CanceledAction.php on line 9

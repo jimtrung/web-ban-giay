@@ -1,0 +1,13 @@
+[15-May-2026 14:00:26 UTC] PHP Notice:  Undefined variable: brands in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-thumbnails-description.php on line 23
+[15-May-2026 14:00:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-thumbnails-description.php on line 23
+[15-May-2026 14:13:41 UTC] PHP Notice:  Undefined variable: thumbnail in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-description.php on line 22
+[15-May-2026 14:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-description.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-description.php on line 27
+[15-May-2026 14:40:34 UTC] PHP Notice:  Undefined variable: fluid_columns in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-thumbnails.php on line 21
+[15-May-2026 14:40:34 UTC] PHP Notice:  Undefined variable: columns in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-thumbnails.php on line 21
+[15-May-2026 14:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-thumbnails.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/widgets/brand-thumbnails.php on line 25

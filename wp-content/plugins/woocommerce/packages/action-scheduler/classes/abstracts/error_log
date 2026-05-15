@@ -1,0 +1,23 @@
+[15-May-2026 12:01:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[15-May-2026 12:02:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[15-May-2026 12:02:12 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[15-May-2026 12:02:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[15-May-2026 12:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[15-May-2026 12:08:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[15-May-2026 12:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_WPCLI_Command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_WPCLI_Command.php on line 6
+[15-May-2026 12:33:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 8

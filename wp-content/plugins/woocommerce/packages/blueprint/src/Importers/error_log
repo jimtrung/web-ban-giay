@@ -1,0 +1,24 @@
+[15-May-2026 14:17:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Blueprint\StepProcessor' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportRunSql.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportRunSql.php on line 19
+[15-May-2026 14:17:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Blueprint\StepProcessor' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportInstallPlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportInstallPlugin.php on line 17
+[15-May-2026 14:22:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Blueprint\StepProcessor' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportInstallTheme.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportInstallTheme.php on line 18
+[15-May-2026 14:23:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Blueprint\StepProcessor' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportSetSiteOptions.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportSetSiteOptions.php on line 17
+[15-May-2026 14:31:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Blueprint\StepProcessor' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportActivateTheme.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportActivateTheme.php on line 16
+[15-May-2026 14:33:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Blueprint\StepProcessor' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportActivatePlugin.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Importers/ImportActivatePlugin.php on line 13

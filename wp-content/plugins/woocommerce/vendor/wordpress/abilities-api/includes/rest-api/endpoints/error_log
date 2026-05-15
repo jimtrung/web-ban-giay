@@ -1,0 +1,8 @@
+[15-May-2026 15:15:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/abilities-api/includes/rest-api/endpoints/class-wp-rest-abilities-v1-categories-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/abilities-api/includes/rest-api/endpoints/class-wp-rest-abilities-v1-categories-controller.php on line 19
+[15-May-2026 15:16:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/abilities-api/includes/rest-api/endpoints/class-wp-rest-abilities-v1-run-controller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/abilities-api/includes/rest-api/endpoints/class-wp-rest-abilities-v1-run-controller.php on line 19

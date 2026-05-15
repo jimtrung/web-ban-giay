@@ -1,0 +1,20 @@
+[15-May-2026 11:57:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php on line 15
+[15-May-2026 12:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 10
+[15-May-2026 12:19:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php on line 6
+[15-May-2026 12:24:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Logger' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php on line 10
+[15-May-2026 12:26:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Logger' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_wpCommentLogger.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_wpCommentLogger.php on line 6

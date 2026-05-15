@@ -1,0 +1,1 @@
+[15-May-2026 14:01:26 UTC] PHP Fatal error:  Trait 'Automattic\WooCommerce\Blueprint\UseWPFunctions' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Cli/ExportCli.php on line 15

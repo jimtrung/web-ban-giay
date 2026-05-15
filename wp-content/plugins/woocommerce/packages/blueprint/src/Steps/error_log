@@ -1,0 +1,24 @@
+[15-May-2026 14:01:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blueprint\Steps\Step' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/SetSiteOptions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/SetSiteOptions.php on line 8
+[15-May-2026 14:01:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blueprint\Steps\Step' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/InstallTheme.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/InstallTheme.php on line 14
+[15-May-2026 14:01:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blueprint\Steps\Step' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/ActivateTheme.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/ActivateTheme.php on line 10
+[15-May-2026 14:01:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blueprint\Steps\Step' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/InstallPlugin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/InstallPlugin.php on line 14
+[15-May-2026 14:02:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blueprint\Steps\Step' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/ActivatePlugin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/ActivatePlugin.php on line 10
+[15-May-2026 14:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blueprint\Steps\Step' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/RunSql.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Steps/RunSql.php on line 10

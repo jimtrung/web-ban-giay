@@ -1,0 +1,8 @@
+[15-May-2026 14:32:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Blueprint\Exporters\StepExporter' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Exporters/ExportInstallThemeSteps.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Exporters/ExportInstallThemeSteps.php on line 15
+[15-May-2026 14:43:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Blueprint\Exporters\StepExporter' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Exporters/ExportInstallPluginSteps.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/blueprint/src/Exporters/ExportInstallPluginSteps.php on line 13

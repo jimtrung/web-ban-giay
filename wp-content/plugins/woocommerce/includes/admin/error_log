@@ -1,0 +1,5 @@
+[15-May-2026 15:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-brands.php:46
+Stack trace:
+#0 /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-brands.php(855): WC_Brands_Admin->__construct()
+#1 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-brands.php on line 46

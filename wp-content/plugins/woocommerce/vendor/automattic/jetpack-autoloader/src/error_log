@@ -1,0 +1,6 @@
+[15-May-2026 15:14:50 UTC] PHP Warning:  require_once(/home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/automattic/jetpack-autoloader/src/jetpack-autoloader/class-autoloader.php): failed to open stream: No such file or directory in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/automattic/jetpack-autoloader/src/autoload.php on line 4
+[15-May-2026 15:14:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/automattic/jetpack-autoloader/src/jetpack-autoloader/class-autoloader.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/automattic/jetpack-autoloader/src/autoload.php on line 4
+[15-May-2026 15:15:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/automattic/jetpack-autoloader/src/CustomAutoloaderPlugin.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/automattic/jetpack-autoloader/src/CustomAutoloaderPlugin.php on line 22

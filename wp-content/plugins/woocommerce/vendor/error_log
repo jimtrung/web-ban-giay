@@ -1,0 +1,7 @@
+[15-May-2026 13:38:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jp90ed36edb0b4a076cd12d3db7480bdef\al5_0_0\wp_normalize_path() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jp90ed36edb0b4a076cd12d3db7480bdef\al5_0_0\Path_Processor->find_directory_with_autoloader('/home/uzjiyaip/...', Array)
+#1 /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jp90ed36edb0b4a076cd12d3db7480bdef\al5_0_0\Plugin_Locator->find_current_plugin()
+#2 /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jp90ed36edb0b4a076cd12d3db7480bdef\al5_0_0\Autoloader::init()
+#3 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73

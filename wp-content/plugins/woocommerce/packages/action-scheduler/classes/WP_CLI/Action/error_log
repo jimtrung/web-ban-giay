@@ -1,0 +1,16 @@
+[15-May-2026 16:02:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_WPCLI_Command' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Action/Create_Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Action/Create_Command.php on line 10
+[15-May-2026 16:02:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_WPCLI_Command' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Action/Cancel_Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Action/Cancel_Command.php on line 10
+[15-May-2026 16:02:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_WPCLI_Command' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Action/Delete_Command.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Action/Delete_Command.php on line 8
+[15-May-2026 16:03:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_WPCLI_Command' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Action/Generate_Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Action/Generate_Command.php on line 10

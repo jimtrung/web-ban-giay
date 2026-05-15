@@ -1,0 +1,4 @@
+[15-May-2026 15:14:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'WP\MCP\Transport\Contracts\McpRestTransportInterface' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/mcp-adapter/includes/Transport/HttpTransport.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/mcp-adapter/includes/Transport/HttpTransport.php on line 26

@@ -1,0 +1,4 @@
+[15-May-2026 15:20:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'WP\MCP\Domain\Prompts\Contracts\McpPromptBuilderInterface' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/mcp-adapter/includes/Domain/Prompts/McpPromptBuilder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/mcp-adapter/includes/Domain/Prompts/McpPromptBuilder.php on line 20

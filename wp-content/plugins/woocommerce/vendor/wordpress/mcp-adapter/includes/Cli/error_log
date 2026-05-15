@@ -1,0 +1,4 @@
+[15-May-2026 15:17:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/mcp-adapter/includes/Cli/McpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/mcp-adapter/includes/Cli/McpCommand.php on line 21

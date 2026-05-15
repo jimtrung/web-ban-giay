@@ -1,0 +1,20 @@
+[15-May-2026 12:11:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[15-May-2026 12:27:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[15-May-2026 12:29:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[15-May-2026 12:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[15-May-2026 13:56:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6

@@ -1,0 +1,10 @@
+[15-May-2026 13:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/class-wc-brands.php:27
+Stack trace:
+#0 /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/class-wc-brands.php(1200): WC_Brands->__construct()
+#1 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/class-wc-brands.php on line 27
+[15-May-2026 13:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/class-wc-brands-coupons.php:23
+Stack trace:
+#0 /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/class-wc-brands-coupons.php(191): WC_Brands_Coupons->__construct()
+#1 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/class-wc-brands-coupons.php on line 23

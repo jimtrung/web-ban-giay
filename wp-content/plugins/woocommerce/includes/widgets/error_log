@@ -1,0 +1,12 @@
+[15-May-2026 13:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-brand-description.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-brand-description.php on line 15
+[15-May-2026 13:58:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WC_Widget' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-brand-nav.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-brand-nav.php on line 14
+[15-May-2026 13:58:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-brand-thumbnails.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-brand-thumbnails.php on line 15

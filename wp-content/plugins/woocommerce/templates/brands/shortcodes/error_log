@@ -1,0 +1,8 @@
+[15-May-2026 13:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/shortcodes/single-brand.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/shortcodes/single-brand.php on line 33
+[15-May-2026 13:56:51 UTC] PHP Notice:  Undefined variable: index in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/shortcodes/brands-a-z.php on line 25
+[15-May-2026 13:56:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/shortcodes/brands-a-z.php on line 25
+[15-May-2026 13:56:51 UTC] PHP Notice:  Undefined variable: index in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/shortcodes/brands-a-z.php on line 36
+[15-May-2026 13:56:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/templates/brands/shortcodes/brands-a-z.php on line 36

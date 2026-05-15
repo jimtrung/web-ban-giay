@@ -1,0 +1,1 @@
+[15-May-2026 08:12:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/uzjiyaip/public_html/wp-content/plugins/google-listings-and-ads/src/Proxies/Tracks.php on line 1

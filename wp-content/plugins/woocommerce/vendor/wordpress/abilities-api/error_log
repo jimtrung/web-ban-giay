@@ -1,0 +1,4 @@
+[15-May-2026 16:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/abilities-api/abilities-api.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uzjiyaip/public_html/wp-content/plugins/woocommerce/vendor/wordpress/abilities-api/abilities-api.php on line 27
