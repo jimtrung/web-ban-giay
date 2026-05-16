@@ -142,11 +142,6 @@ http://localhost/web-ban-giay/wp-admin
 - Username: jimtrung 
 - Password: Trung@123 
 
-## User
-
-- Username: user
-- Password: 123456
-
 ---
 
 # Hình Ảnh Minh Họa Hệ Thống
