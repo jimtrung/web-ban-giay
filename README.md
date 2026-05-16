@@ -171,14 +171,14 @@ http://localhost/web-ban-giay/wp-admin
 # Video Demo
 
 Link video demo:  
-https://youtube.com/
+[Google Drive](https://drive.google.com/file/d/1E_CAWLgWvrETS3x5pUr7pk0_SrDbWhSt/view?usp=sharing)
 
 ---
 
 # Link Deploy Online
 
 Website Online:  
-https://nguyenhaitrung.id.vn/
+[Website](https://nguyenhaitrung.id.vn/)
 
 ---
 
